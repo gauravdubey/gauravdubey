@@ -34,6 +34,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/gauravdubey2/)  
 - [GitHub](https://github.com/gauravdubey)
+- [Medium](https://medium.com/@i.gauravdubey)
 
 ---
 
