@@ -32,7 +32,7 @@
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/gauravdubey2/)  
+- [LinkedIn](https://www.linkedin.com/in/gauravdubey86/)  
 - [GitHub](https://github.com/gauravdubey)
 - [Medium](https://medium.com/@i.gauravdubey)
 
