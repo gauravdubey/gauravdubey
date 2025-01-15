@@ -26,7 +26,7 @@
 ## 🎓 Certifications & Education
 
 - **MCA** from BMS Institute of Technology, Bangalore
-- Certified in **Android Development** and **Kotlin**
+- Certified in **Android Development** using **Kotlin** , **Java** and **Jetpack Compose**
 
 ---
 
