@@ -17,10 +17,11 @@
 
 ## 🛠️ Key Projects
 
-- **Shoppix:** Improved user engagement and performance optimization.
-- **Digital Policing Project (DPP):** Enhanced database security and optimized operations.
-- **JioMoney Merchant:** Led a team for improved app security and seamless payment integration.
-
+- **Shoppix:** Enhanced **user engagement** and optimized **performance**, improving response time by 30%.
+- **Digital Policing Project (DPP):** Strengthened **database security** with **encryption** and optimized operations, reducing query execution time by **40%**.
+- **JioMoney Merchant:** Led a team to improve **app security** using **SSL encryption and ProGuard**, while integrating seamless **UPI and card payments** via Braintree and Stripe.
+- **Ferns N Petals:** Developed the app using **MVVM, Retrofit, and Jetpack**, increasing sales by 25% and reducing load time by **40%**, achieving a **4.5-star rating** on the Play Store.
+  
 ---
 
 ## 🎓 Certifications & Education
