@@ -35,7 +35,6 @@
 - **Kotlin Multiplatform (KMP) for Cross-Platform Development**  
 - **GraphQL & REST API Integration, Apollo Client**  
 - **Memory, Battery & Network Optimization Strategies**  
-- **AI/ML Integration using TensorFlow Lite and ML Kit**  
 
 💡 **Passionate about architecting scalable, secure, and high-performance Android applications.**  
 
